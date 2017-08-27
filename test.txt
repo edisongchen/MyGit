@@ -2,3 +2,4 @@ this is test add
 test1
 远程修改
 test branch update this
+test fetch
