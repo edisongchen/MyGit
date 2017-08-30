@@ -2,3 +2,5 @@ this is test add
 te33st1
 多次commit合并测试。。
 第二次修改
+git checkout -b feature/issue#1 origin dev 做issue1需求的分支
+先从dev fork代码，再提交这个需求的代码。
