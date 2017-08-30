@@ -1,5 +1,17 @@
 this is test add
+
 test1
 远程修改
 test branch update this
 test fetch
+te33st1
+多次commit合并测试。。
+第二次修改
+git checkout -b feature/issue#1 origin dev 做issue1需求的分支
+先从dev fork代码，再提交这个需求的代码。
+dev分支的修改，测试冲突，git flow工作流程
+feature分支需要先pull，再和dev分支合并
+-----
+git flow 流程，当dev分支fork了一个relase发布分支后，发现bug,并修复于此!!
+---------
+
