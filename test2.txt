@@ -4,4 +4,4 @@ vi test2.txt from branch test
 test 悔棋
 对的。这次多次悔棋，多个commit合并为一个!!!
 
-#模拟另一个人远程pus了代码
+模拟另一个人远程push了代码
