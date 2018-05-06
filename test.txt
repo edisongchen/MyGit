@@ -21,6 +21,9 @@ amend step2
 amend append step
 
 git rebase
-
 git rebase -i commitId #从commitID后的提交合并为一
 git rebase -i commitId 测试
+test conflict
+git add .
+git rebase --continue
+sss
