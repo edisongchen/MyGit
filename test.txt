@@ -19,4 +19,4 @@ git flow 流程，当dev分支fork了一个relase发布分支后，发现bug,并
 test git commit --amend
 amend step2
 amend append step
-
+sss conflect test
